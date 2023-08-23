@@ -1,0 +1,100 @@
+﻿<Window x:Class="ReBirth.Pages.ReferencePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReBirth.Pages"
+        mc:Ignorable="d"
+        Title="Предпросмотр" Height="21 cm" Width="29.7 cm" ResizeMode="NoResize">
+    <Grid Margin="1cm 0" x:Name="prtGrd">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1" Margin="0 40 0 0">
+            <StackPanel Grid.Row="6" Grid.ColumnSpan="2">
+                <TextBlock Text="7. Краткий анамнез, диагностические исследования, течение болезни, проведенное лечение, состояние при направлении, при выписке:" TextWrapping="Wrap" FontSize="16" FontWeight="DemiBold" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                <TextBlock Name="patientAnamnesisBox" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman"/>
+            </StackPanel>
+            <StackPanel Grid.Row="6" Grid.ColumnSpan="2">
+                <TextBlock Text="8. Лечебные и трудовые рекомендации:" TextWrapping="Wrap" FontSize="16" FontWeight="DemiBold" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                <TextBlock Name="patientRecBox" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman"/>
+            </StackPanel>
+            <TextBlock FontSize="16" FontStyle="Italic" FontFamily="Times New Roman" Margin="0 20 0 0">
+                <Run FontWeight="DemiBold" Text="Лечащий врач: "/>
+                <Run Name="doctorName" TextDecorations="Underline"/>
+            </TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Column="0">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock HorizontalAlignment="Left" Width="250" Margin="0 20" FontSize="10" FontWeight="DemiBold" FontStyle="Italic" FontFamily="Times New Roman" TextAlignment="Center" TextWrapping="Wrap">
+                <Run Text="Минздрав РФ"/>
+                <LineBreak/>
+                <Run Text="КОНСУЛЬТАТИВНО-ДИАГНОСТИЧЕСКИЙ ЦЕНТР ГАУЗ ДГКП №9" TextDecorations="Underline"/>
+                </TextBlock>
+                <TextBlock HorizontalAlignment="Right" Width="70" Margin="150 20" FontSize="10" FontFamily="Times New Roman" TextAlignment="Center">
+                <Run Text="Форма 027/у"/>
+                </TextBlock>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock HorizontalAlignment="Center" Margin="0 20" FontWeight="DemiBold" FontSize="11" FontFamily="Times New Roman" TextAlignment="Center">
+                <Run Text="ВЫПИСКА"/>
+                    <LineBreak/>
+                <Run Text="из медицинской карты"/>
+                    <LineBreak/>
+                <Run Text="амбулаторного больного"/>
+                </TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="в " TextWrapping="Wrap" FontSize="16" FontFamily="Times New Roman"/>
+                <TextBlock Name="printReferenceDirection" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman"  Margin="10 0 0 0"/>
+            </StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Width="100" HorizontalAlignment="Left" Text="1. Фамилия, имя, отчество: " Grid.Row="0" TextWrapping="Wrap" FontSize="16" FontWeight="DemiBold" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                <TextBlock Width="90" HorizontalAlignment="Left" Text="2. Дата рождения:" Grid.Row="1" TextWrapping="Wrap" FontSize="16" FontWeight="DemiBold" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                <TextBlock Width="100" HorizontalAlignment="Left" Text="3. Домашний адрес:" Grid.Row="2" TextWrapping="Wrap" FontSize="16" FontWeight="DemiBold" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                <TextBlock Width="100" HorizontalAlignment="Left" Text="4. Место работы и род занятий:" Grid.Row="3" TextWrapping="Wrap" FontSize="16" FontWeight="DemiBold" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+
+                <StackPanel Orientation="Horizontal" Grid.Row="4" Margin="0 20 0 0">
+                    <TextBlock Text="5. Даты:" TextWrapping="Wrap" FontSize="16" FontWeight="DemiBold" FontFamily="Times New Roman"/>
+                    <StackPanel Orientation="Vertical" Margin="5 0 0 0">
+                        <TextBlock Text="по амбулатории: заболевания" TextWrapping="Wrap" FontSize="15" FontFamily="Times New Roman"/>
+                        <TextBlock Text="направления в стационар" TextWrapping="Wrap" FontSize="16" FontFamily="Times New Roman"/>
+                    </StackPanel>
+                    <StackPanel>
+                        <TextBlock Grid.Column="1" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman"/>
+                        <TextBlock Grid.Column="1" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Grid.Row="6" Grid.ColumnSpan="2">
+                    <TextBlock Text="6. Полный диагноз:" TextWrapping="Wrap" FontSize="16" FontWeight="DemiBold" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                    <TextBlock Name="patientFullDiagBox" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman"/>
+                </StackPanel>
+
+                <TextBlock Grid.Row="0" Grid.Column="1" Name="patientNameBox" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                <TextBlock Grid.Row="1" Grid.Column="1" Name="patientDateBox" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                <TextBlock Grid.Row="2" Grid.Column="1" Name="patientAdressBox" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                <TextBlock Grid.Row="3" Grid.Column="1" Name="patientOccupationBox" TextWrapping="Wrap" FontSize="16" TextDecorations="Underline" FontStyle="Italic" FontFamily="Times New Roman" Margin="0 20 0 0"/>
+                <StackPanel Orientation="Vertical" Grid.Row="4" Grid.Column="1" Margin="0 20 0 0">
+                    <TextBlock Name="patientDateDateBox"  FontSize="16" FontStyle="Italic" FontFamily="Times New Roman" TextDecorations="Underline"/>
+                    <TextBlock Name="patientStBox" FontSize="16" FontStyle="Italic" FontFamily="Times New Roman" TextDecorations="Underline"/>
+                </StackPanel>
+            </Grid>
+            
+        </StackPanel>
+    </Grid>
+</Window>

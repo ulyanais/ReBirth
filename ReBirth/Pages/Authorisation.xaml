@@ -1,0 +1,46 @@
+﻿<Window x:Class="ReBirth.Pages.Authorisation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReBirth.Pages"
+        mc:Ignorable="d"
+        Title="ReBirth" Icon="/Images/icon.png" Height="500" Width="850" WindowStartupLocation="CenterScreen" Background="#D3DEEB">
+    <Window.Resources>
+        <CollectionViewSource x:Key="peoplesViewSource" d:DesignSource="{d:DesignInstance {x:Type local:People}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        <Image Source="/Images/Osobennosti-yogi-i-zaryadki-1.jpg" Stretch="UniformToFill"/>
+
+        <!--Вход в систему-->
+        <GroupBox x:Name="Input" Header="Вход в систему" Height="250" Width="301" FontSize="15" FontFamily="Lucida Bright" Background="{x:Null}" Foreground="White" HorizontalAlignment="Center">
+            <StackPanel Width="200" Height="200" HorizontalAlignment="Center" PreviewTextInput="StackPanel_PreviewTextInput" DataObject.Pasting="OnPasting">
+                <Canvas Name="loginCanvas" Margin="0 50 0 0" Style="{StaticResource canvs}">
+                    <TextBox x:Name="UserLogin" Padding="4 4 0 0" Width="{Binding ElementName=loginCanvas, Path=ActualWidth}" Height="{Binding ElementName=loginCanvas, Path=ActualHeight}"/>
+                    <TextBlock Padding="7 5 0 0" Text="Логин" Foreground="Gray" FontSize="15" FontFamily="Lucida Bright" IsHitTestVisible="False" Width="{Binding ElementName=loginCanvas, Path=ActualWidth}" Height="{Binding ElementName=loginCanvas, Path=ActualHeight}">
+                        <TextBlock.Style>
+                            <Style TargetType="{x:Type TextBlock}">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding Text, ElementName=UserLogin}" Value="">
+                                        <Setter Property="Visibility" Value="Visible"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TextBlock.Style>
+                    </TextBlock>
+                </Canvas>
+                <Canvas x:Name="passwordCanvas" Margin="0 30 0 40" Style="{StaticResource canvs}">
+                    <PasswordBox x:Name="UserPasswordBox" Padding="2" PasswordChanged="UserPasswordBox_PasswordChanged" VerticalAlignment="Top" Width="{Binding ElementName=passwordCanvas, Path=ActualWidth}" Height="{Binding ElementName=passwordCanvas, Path=ActualHeight}"/>
+                    <TextBlock x:Name="textOver" Text="Пароль" Foreground="Gray" FontSize="15" FontFamily="Lucida Bright" Padding="5" IsHitTestVisible="False"/>
+                </Canvas>
+                <Button Click="LogIn_button" Width="100" Height="25" Command="{Binding}" Style="{StaticResource button}">Войти</Button>
+            </StackPanel>
+        </GroupBox>
+        <Frame x:Name="frame" Navigated="Frame_Navigated" NavigationUIVisibility="Hidden" JournalOwnership="UsesParentJournal"/>
+    </Grid>
+</Window>

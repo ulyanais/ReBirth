@@ -1,0 +1,57 @@
+﻿<Page x:Class="ReBirth.Pages.UserPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ReBirth.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+       Title="ReBirth">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <Border Background="#FF729FA2" Grid.Row="0"/>
+        <Border Background="#FF729FA2" Grid.Row="2"/>
+        
+        <!--Вывод данных из бд-->
+        <ListView x:Name="exerciseListView" SelectionMode="Single" ItemsSource="{Binding SourceCollection}" Style="{StaticResource listView}" MouseDoubleClick="exerciseListView_MouseDoubleClick">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border>
+                        <StackPanel Orientation="Horizontal" Height="115" Width="760">
+
+                            <!--Картинка упражнения-->
+                            <Image x:Name="exerciseImage" Source="{Binding Path=exImage}" Height="110" Width="70" Margin="30 0 30 0"/>
+
+                            <!--Название упражнения-->
+                            <StackPanel Width="450" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20 0 50 0">
+                                <TextBlock x:Name="exerciseName" Text="{Binding Path=exName}" Style="{StaticResource txtInfo}"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Menu Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Аккаунт">
+                <MenuItem.Icon>
+                    <Image Source="/Images/account.png" Height="17"/>
+                </MenuItem.Icon>
+                <MenuItem Header="Выйти" Click="Close_Click"/>
+            </MenuItem>
+            <MenuItem Header="Вопросы?" Click="Help_Click">
+                <MenuItem.Icon>
+                    <Image Source="/Images/help.png" Height="17"/>
+                </MenuItem.Icon>
+            </MenuItem>
+        </Menu>
+
+        <Frame x:Name="frame" Navigated="Frame_Navigated" Grid.RowSpan="3"/>
+    </Grid>
+</Page>

@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ReBirthModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cabinet">
+    <Key>
+      <PropertyRef Name="cabID" />
+    </Key>
+    <Property Name="cabID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="patientID" Type="Int32" Nullable="false" />
+    <Property Name="specialistID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Patient" Relationship="Self.FK_Cabinets_Patient1" FromRole="Cabinets" ToRole="Patient" />
+    <NavigationProperty Name="Exercises" Relationship="Self.FK_Exercises_Cabinets" FromRole="Cabinets" ToRole="Exercises" />
+    <NavigationProperty Name="Specialists" Relationship="Self.FK_Specialists_Cabinets" FromRole="Cabinets" ToRole="Specialists" />
+  </EntityType>
+  <EntityType Name="Exercis">
+    <Key>
+      <PropertyRef Name="exID" />
+    </Key>
+    <Property Name="exID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kindOfActivityID" Type="Int32" Nullable="false" />
+    <Property Name="exImage" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="exName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="exDescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="exTimer" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="specialistID" Type="Int32" Nullable="false" />
+    <Property Name="cabinetID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Cabinet" Relationship="Self.FK_Exercises_Cabinets" FromRole="Exercises" ToRole="Cabinets" />
+    <NavigationProperty Name="KindOfActivity" Relationship="Self.FK_Exercises_KindOfActivities" FromRole="Exercises" ToRole="KindOfActivities" />
+  </EntityType>
+  <EntityType Name="KindOfActivity">
+    <Key>
+      <PropertyRef Name="acID" />
+    </Key>
+    <Property Name="acID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="acName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Exercises" Relationship="Self.FK_Exercises_KindOfActivities" FromRole="KindOfActivities" ToRole="Exercises" />
+  </EntityType>
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userID" Type="Int32" Nullable="false" />
+    <Property Name="nameP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="surnameP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="patronymicP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Cabinets" Relationship="Self.FK_Cabinets_Patient1" FromRole="Patient" ToRole="Cabinets" />
+    <NavigationProperty Name="User" Relationship="Self.FK_Patient_Users1" FromRole="Patient" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="roleID" />
+    </Key>
+    <Property Name="roleID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nameRole" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_Users_Role" FromRole="Role" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Specialist">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userID" Type="Int32" Nullable="false" />
+    <Property Name="nameS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="surnameS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="patronymicS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TipeOfSpecialist" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="cabinID" Type="Int32" />
+    <NavigationProperty Name="Cabinet" Relationship="Self.FK_Specialists_Cabinets" FromRole="Specialists" ToRole="Cabinets" />
+    <NavigationProperty Name="User" Relationship="Self.FK_Specialists_Users" FromRole="Specialists" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="roleID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Patients" Relationship="Self.FK_Patient_Users1" FromRole="Users" ToRole="Patient" />
+    <NavigationProperty Name="Role" Relationship="Self.FK_Users_Role" FromRole="Users" ToRole="Role" />
+    <NavigationProperty Name="Specialists" Relationship="Self.FK_Specialists_Users" FromRole="Users" ToRole="Specialists" />
+  </EntityType>
+  <Association Name="FK_Cabinets_Patient1">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="1" />
+    <End Role="Cabinets" Type="Self.Cabinet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Cabinets">
+        <PropertyRef Name="patientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Exercises_Cabinets">
+    <End Role="Cabinets" Type="Self.Cabinet" Multiplicity="1" />
+    <End Role="Exercises" Type="Self.Exercis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cabinets">
+        <PropertyRef Name="cabID" />
+      </Principal>
+      <Dependent Role="Exercises">
+        <PropertyRef Name="cabinetID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Specialists_Cabinets">
+    <End Role="Cabinets" Type="Self.Cabinet" Multiplicity="0..1" />
+    <End Role="Specialists" Type="Self.Specialist" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cabinets">
+        <PropertyRef Name="cabID" />
+      </Principal>
+      <Dependent Role="Specialists">
+        <PropertyRef Name="cabinID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Exercises_KindOfActivities">
+    <End Role="KindOfActivities" Type="Self.KindOfActivity" Multiplicity="1" />
+    <End Role="Exercises" Type="Self.Exercis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KindOfActivities">
+        <PropertyRef Name="acID" />
+      </Principal>
+      <Dependent Role="Exercises">
+        <PropertyRef Name="kindOfActivityID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Patient_Users1">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Patient" Type="Self.Patient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="Patient">
+        <PropertyRef Name="userID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Users_Role">
+    <End Role="Role" Type="Self.Role" Multiplicity="1" />
+    <End Role="Users" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="roleID" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="roleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Specialists_Users">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Specialists" Type="Self.Specialist" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="Specialists">
+        <PropertyRef Name="userID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ReBirthEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cabinets" EntityType="Self.Cabinet" />
+    <EntitySet Name="Exercises" EntityType="Self.Exercis" />
+    <EntitySet Name="KindOfActivities" EntityType="Self.KindOfActivity" />
+    <EntitySet Name="Patients" EntityType="Self.Patient" />
+    <EntitySet Name="Roles" EntityType="Self.Role" />
+    <EntitySet Name="Specialists" EntityType="Self.Specialist" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_Cabinets_Patient1" Association="Self.FK_Cabinets_Patient1">
+      <End Role="Patient" EntitySet="Patients" />
+      <End Role="Cabinets" EntitySet="Cabinets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Exercises_Cabinets" Association="Self.FK_Exercises_Cabinets">
+      <End Role="Cabinets" EntitySet="Cabinets" />
+      <End Role="Exercises" EntitySet="Exercises" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Specialists_Cabinets" Association="Self.FK_Specialists_Cabinets">
+      <End Role="Cabinets" EntitySet="Cabinets" />
+      <End Role="Specialists" EntitySet="Specialists" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Exercises_KindOfActivities" Association="Self.FK_Exercises_KindOfActivities">
+      <End Role="KindOfActivities" EntitySet="KindOfActivities" />
+      <End Role="Exercises" EntitySet="Exercises" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Patient_Users1" Association="Self.FK_Patient_Users1">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Patient" EntitySet="Patients" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Users_Role" Association="Self.FK_Users_Role">
+      <End Role="Role" EntitySet="Roles" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Specialists_Users" Association="Self.FK_Specialists_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Specialists" EntitySet="Specialists" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(ReBirthModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(ReBirthModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

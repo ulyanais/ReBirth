@@ -1,0 +1,1557 @@
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\MainWindow.baml
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.exe.config
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.exe
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.pdb
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\DoctorPage.g.cs
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Exercises.g.cs
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\MainWindow.g.cs
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Registration.g.cs
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\UserPage.g.cs
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\App.g.cs
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\DoctorPage.baml
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Exercises.baml
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\MainWindow.baml
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Registration.baml
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\UserPage.baml
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.g.resources
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.exe
+F:\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.pdb
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.exe.config
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.exe
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.pdb
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\DoctorPage.g.cs
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Exercises.g.cs
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\MainWindow.g.cs
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\UserPage.g.cs
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\App.g.cs
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\DoctorPage.baml
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Exercises.baml
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\MainWindow.baml
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\UserPage.baml
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.g.resources
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.exe
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.pdb
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Authorisation.g.cs
+D:\bin\student\Belousova\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\Exercises.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\Exercises.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.exe.config
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.exe
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ReBirth.pdb
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\EntityFramework.dll
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\EntityFramework.xml
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\MainWindow.g.cs
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\Exercises.g.cs
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\UserPage.g.cs
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\App.g.cs
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_Content.g.cs
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\App.baml
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\MainWindow.baml
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\Authorisation.baml
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\DoctorPage.baml
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\Exercises.baml
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\Pages\UserPage.baml
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.g.resources
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.exe
+D:\bin\student\`bel\Приложение для реабилитации\с#\ReBirth\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\Exercises.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\Exercises.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.pdb
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\ReBirth.exe.config
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\ReBirth.exe
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\ReBirth.pdb
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\EntityFramework.dll
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\EntityFramework.xml
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\MainWindow.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\Exercises.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\UserPage.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\App.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth_Content.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\App.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\MainWindow.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\Authorisation.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\DoctorPage.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\Exercises.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\Pages\UserPage.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.g.resources
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.exe
+E:\Приложение для реабилитации\с#\ReBirth v1.1\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\Pages\Exercises.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\Pages\Exercises.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.3\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\Pages\Exercises.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\Pages\Exercises.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.4\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\Pages\Exercises.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\Pages\Exercises.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.5\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\Pages\Exercises.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\Pages\Exercises.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.6\ReBirth\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\Exercises.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\Exercises.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\ReBirth.exe.config
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\ReBirth.exe
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\ReBirth.pdb
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.dll
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.xml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\MainWindow.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\Exercises.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\UserPage.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\App.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth_Content.g.cs
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\App.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\MainWindow.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\Authorisation.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\DoctorPage.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\Exercises.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\Pages\UserPage.baml
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.g.resources
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.exe
+E:\Приложение для реабилитации\с#\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.pdb
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\bin\Debug\ReBirth.exe.config
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\bin\Debug\ReBirth.exe
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\bin\Debug\ReBirth.pdb
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.dll
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.xml
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\MainWindow.g.cs
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\Exercises.g.cs
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\UserPage.g.cs
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\App.g.cs
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth_Content.g.cs
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\App.baml
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\MainWindow.baml
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\Authorisation.baml
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\DoctorPage.baml
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\Exercises.baml
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\Pages\UserPage.baml
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.g.resources
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.exe
+D:\bin\student\`sss\ReBirth v1.7\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth.csproj.AssemblyReference.cache
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\Exercises.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\App.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\App.baml
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\Exercises.baml
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\h8ful\Desktop\ReBirth v1.8\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.9\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\bin\Debug\ReBirth.exe.config
+D:\bin\student\`s\ReBirth v1.10\ReBirth\bin\Debug\ReBirth.exe
+D:\bin\student\`s\ReBirth v1.10\ReBirth\bin\Debug\ReBirth.pdb
+D:\bin\student\`s\ReBirth v1.10\ReBirth\bin\Debug\EntityFramework.dll
+D:\bin\student\`s\ReBirth v1.10\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+D:\bin\student\`s\ReBirth v1.10\ReBirth\bin\Debug\EntityFramework.xml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\MainWindow.g.cs
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\UserPage.g.cs
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\App.g.cs
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth_Content.g.cs
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\App.baml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\MainWindow.baml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\Authorisation.baml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\DoctorPage.baml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\Pages\UserPage.baml
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth.g.resources
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth.exe
+D:\bin\student\`s\ReBirth v1.10\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.11\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.13\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\App.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\App.baml
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\jin\Documents\purojecudesu\ReBirth v1.14\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.15question_mark\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.16\ReBirth\obj\Debug\ReBirth.pdb
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\MainWindow.g.cs
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\UserPage.g.cs
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\App.g.cs
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth_Content.g.cs
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth.exe
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth.pdb
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\bin\Debug\ReBirth.exe.config
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\bin\Debug\ReBirth.exe
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\bin\Debug\ReBirth.pdb
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\bin\Debug\EntityFramework.dll
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\bin\Debug\EntityFramework.xml
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\App.baml
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\MainWindow.baml
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\Authorisation.baml
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\DoctorPage.baml
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\Pages\UserPage.baml
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth.g.resources
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+D:\bin\student\`belousova\ReBirth v1.17\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.18\ReBirth\obj\Debug\ReBirth.pdb
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\MainWindow.g.cs
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\UserPage.g.cs
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\App.g.cs
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth_Content.g.cs
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth.exe
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth.pdb
+D:\bin\student\`s\ReBirth v1.19\ReBirth\bin\Debug\ReBirth.exe.config
+D:\bin\student\`s\ReBirth v1.19\ReBirth\bin\Debug\ReBirth.exe
+D:\bin\student\`s\ReBirth v1.19\ReBirth\bin\Debug\ReBirth.pdb
+D:\bin\student\`s\ReBirth v1.19\ReBirth\bin\Debug\EntityFramework.dll
+D:\bin\student\`s\ReBirth v1.19\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+D:\bin\student\`s\ReBirth v1.19\ReBirth\bin\Debug\EntityFramework.xml
+D:\bin\student\`s\ReBirth v1.19\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+D:\bin\student\`s\ReBirth v1.19\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\App.baml
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\MainWindow.baml
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\Authorisation.baml
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\DoctorPage.baml
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\Pages\UserPage.baml
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth.g.resources
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+D:\bin\student\`s\ReBirth v1.19\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.20\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.21\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.22\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.23 - копия\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.24\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.25\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.26\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.27\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.csproj.AssemblyReference.cache
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\App.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\App.baml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\h8ful\Desktop\ReBirth v1.28\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\UserHelp.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.29\ReBirth\obj\Debug\Pages\UserHelp.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\UserHelp.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\UserHelp.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.csproj.AssemblyReference.cache
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.csproj.SuggestedBindingRedirects.cache
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\UserHelp.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\App.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\App.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\UserHelp.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\HEIL MICH\Downloads\ReBirth_v1_30\ReBirth v1.30\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\UserHelp.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\UserHelp.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\ReferencePage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\ReferencePage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\Reference.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.31\ReBirth\obj\Debug\Pages\Reference.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\Reference.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\ReferencePage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\UserHelp.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\App.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\App.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\Reference.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\ReferencePage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\UserHelp.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.31\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\Reference.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\ReferencePage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\UserHelp.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\App.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\App.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\Reference.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\ReferencePage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\UserHelp.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32ю\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\Reference.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\ReferencePage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\UserHelp.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\App.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\App.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\Reference.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\ReferencePage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\UserHelp.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\jin\Documents\purojecudesu\ReBruh\ReBirth v1.32\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\Reference.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\ReferencePage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\UserHelp.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\Reference.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\ReferencePage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\UserHelp.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.33\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\AddNewExercise.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\AddNewPatient.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\Authorisation.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\DoctorPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\ExercisesPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\Reference.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\UserHelp.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\UserPage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth_Content.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth_MarkupCompile.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth_MarkupCompile.lref
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\bin\Debug\ReBirth.exe.config
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\bin\Debug\ReBirth.exe
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\bin\Debug\ReBirth.pdb
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\ReferencePage.g.cs
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\App.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\AddNewExercise.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\AddNewPatient.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\AdminPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\Authorisation.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\DoctorPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\ExercisesPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\Reference.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\ReferencePage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\UserHelp.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\Pages\UserPage.baml
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth.g.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth.Properties.Resources.resources
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приложение для реабилитации\с#\ReBirth v1.34 final q\ReBirth\obj\Debug\ReBirth.csproj.CopyComplete

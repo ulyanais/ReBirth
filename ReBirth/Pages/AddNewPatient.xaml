@@ -1,0 +1,103 @@
+﻿<Window x:Class="ReBirth.Pages.AddNewPatient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReBirth.Pages"
+        mc:Ignorable="d"
+        Height="570" Width="500" Background="#FF729FA2" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Background="#D3DEEB"/>
+
+        <StackPanel x:Name="StackPanelPat" Grid.Row="1">
+            <StackPanel Grid.Row="1">
+                <Label Content="Имя"/>
+                <TextBox x:Name="newNameP" MaxLength="150"/>
+
+                <Label Content="Фамилия"/>
+                <TextBox x:Name="newSurnameP"/>
+
+                <Label Content="Отчество"/>
+                <TextBox x:Name="newpatronymicP" MaxLength="300"/>
+
+                <Label Content="Придумайте ЛОГИН для Вашего пациента"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="newLoginP" Width="300" Margin="0 0 30 0"/>
+                    <Button x:Name="rndmLogin" Content="Сгенерировать" Click="rndmLogin_Click"/>
+                </StackPanel>
+
+                <Label Content="Придумайте ПАРОЛЬ для Вашего пациента"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="newPasswordP" Width="300" Margin="0 0 30 0"/>
+                    <Button x:Name="rndmPassword" Content="Сгенерировать" Click="rndmPassword_Click"/>
+                </StackPanel>
+                
+                <Label Content="Диагноз"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox Name="kindAcNewP" Width="300" Margin="0 0 30 0" IsReadOnly="True"/>
+                    <ComboBox x:Name="diagnozOptions" Width="150" SelectionChanged="diagnozOptions_SelectionChanged">
+                        
+                    </ComboBox>
+                </StackPanel>
+
+
+                <TextBlock Margin="5 5 0 0">Выбор упражнений для пациента:</TextBlock>
+
+                <StackPanel Height="150" Margin="0 10 0 0" HorizontalAlignment="Center">
+                    <StackPanel Orientation="Horizontal">
+                        <!--Список всех упражнений специалиста-->
+                        <ListView x:Name="exNewPatListView" Width="200" Height="100" VerticalAlignment="Top" ScrollViewer.HorizontalScrollBarVisibility="Hidden" VirtualizingPanel.ScrollUnit="Pixel">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <Border BorderThickness="0 1" BorderBrush="LightGray">
+                                        <StackPanel Width="200">
+                                            <TextBlock x:Name="exerName" Text="{Binding Path=exName}" TextWrapping="Wrap" HorizontalAlignment="Left" Width="175"/>
+                                        </StackPanel>
+                                    </Border>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+
+                        <TextBlock Margin="10 0 10 0" VerticalAlignment="Center" FontSize="20">→</TextBlock>
+
+                        <!--выбранный список всех упражнений специалиста для нового пациента-->
+                        <ListView Width="200" x:Name="SelectEXForPatListView" Height="100" VerticalAlignment="Top" ScrollViewer.HorizontalScrollBarVisibility="Hidden" VirtualizingPanel.ScrollUnit="Pixel">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <Border BorderThickness="0 1" BorderBrush="LightGray">
+                                        <StackPanel Width="200" Orientation="Horizontal">
+                                            <TextBlock x:Name="exerAddName" Text="{Binding Path=exName}" TextWrapping="Wrap"  HorizontalAlignment="Left" Width="175"/>
+                                        </StackPanel>
+                                    </Border>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackPanel>
+
+                    <!--Добавление упражнения-->
+
+                    <StackPanel Orientation="Horizontal" Margin="185 0 0 0">
+                        <Button x:Name="AddExForPat" Content="Добавить" Click="AddExForPat_Click" Height="20" Width="70" HorizontalAlignment="Left"/>
+                        <Button x:Name="DeleteExForPat" Content="Удалить" Click="DeleteExForPat_Click" Height="20" Margin="130 0 0 0"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="Cancel" Content="Отменить" Width="100" Height="30" Click="Cancel_Click" Margin="0 0 40 0"/>
+                <Button x:Name="Ok" Content="ОК" Width="100" Height="30" Click="Ok_Click" Background="#FF92D4A1"/>
+            </StackPanel>
+        </StackPanel>
+
+        
+    </Grid>
+</Window>

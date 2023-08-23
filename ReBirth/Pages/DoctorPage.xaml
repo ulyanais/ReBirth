@@ -1,0 +1,163 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ReBirth.Pages"
+      xmlns:ReBirth="clr-namespace:ReBirth" x:Class="ReBirth.Pages.DoctorPage"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ReBirth">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <Border Background="#FF729FA2" Grid.Row="0">
+            <StackPanel Margin="0 25 0 0" Orientation="Horizontal">
+                <!--Поиск-->
+                <StackPanel x:Name="SearchPanel" Orientation="Vertical" Width="200" Margin="5 0 30 0" Visibility="Collapsed" >
+                    <TextBlock Text="Введите текст:" Foreground="AliceBlue"/>
+                    <TextBox x:Name="Search" TextChanged="Search_TextChanged"/>
+                </StackPanel>
+                <!--Фильтрация-->
+                <ComboBox x:Name="FilterBox" Width="200" Height="20" SelectionChanged="FilterBox_SelectionChanged" Margin="0 10 30 0" Visibility="Collapsed" >
+                    <ComboBoxItem Content="Без фильтрации"/>
+                </ComboBox>
+                <!--Сортировка-->
+                <StackPanel x:Name="SortPanel" Orientation="Horizontal" Margin="0 10 0 0" Visibility="Collapsed" >
+                    <ComboBox x:Name="Sort" SelectedIndex="0"  Width="200" SelectionChanged="Sort_SelectionChanged" Height="20" Margin="0 0 10 0">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding SortTitle}"/>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                    <StackPanel Orientation="Vertical" Margin="0 0 10 0">
+                        <RadioButton Name="byAscending" Content="По возрастанию" IsChecked="True" Checked="byAscending_Checked"/>
+                        <RadioButton Name="byDescending" Content="По убыванию" Checked="byDescending_Checked"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+        <Border Background="#FF729FA2" Grid.Row="2"/>
+
+        <!--Меню с выбором ред. пользователей/упражнений-->
+        <Menu Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Список">
+                <MenuItem.Icon>
+                    <Image Source="/Images/view.png" Height="15"/>
+                </MenuItem.Icon>
+                <MenuItem Header="Пациенты" Click="PatientView_Click"/>
+                <MenuItem Header="Упражнения" Click="ExerciseView_Click" x:Name="ExerciseView"/>
+            </MenuItem>
+            <!--Меню Фильтрация-->
+            <MenuItem Header="Фильтр" Click="FilterMenu_Click" x:Name="Filter">
+                <MenuItem.Icon>
+                    <Image Source="/Images/filter.png" Height="15"/>
+                </MenuItem.Icon>
+            </MenuItem>
+            <!--Меню Сортировка-->
+            <MenuItem Header="Сортировка" Click="SortMenu_Click">
+                <MenuItem.Icon>
+                    <Image Source="/Images/sort.png" Height="13"/>
+                </MenuItem.Icon>
+            </MenuItem>
+            <!--Меню Поиск-->
+            <MenuItem Header="Поиск" Click="SearchMenu_Click">
+                <MenuItem.Icon>
+                    <Image Source="/Images/search.png" Height="13"/>
+                </MenuItem.Icon>
+            </MenuItem>
+            <!--Меню Поиск-->
+            <MenuItem Header="Справка 027/у" Click="Reference_Click">
+                <MenuItem.Icon>
+                    <Image Source="/Images/reference.png" Height="17"/>
+                </MenuItem.Icon>
+            </MenuItem>
+        </Menu>
+        <!--Меню Аккаунт-->
+        <Menu Height="25" VerticalAlignment="Top" HorizontalAlignment="Right">
+            <MenuItem Header="Аккаунт">
+                <MenuItem.Icon>
+                    <Image Source="/Images/account.png" Height="15"/>
+                </MenuItem.Icon>
+                <MenuItem Header="Выйти" Click="Close_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <!--Вывод данных из бд-->
+        <ListView x:Name="patientListView" SelectionMode="Single" ItemsSource="{Binding SourceCollection}" Style="{StaticResource listView}" VirtualizingPanel.ScrollUnit="Pixel">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border>
+                        <StackPanel Orientation="Horizontal" Height="50" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                            <!--ФИО пациента-->
+                            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Width="400">
+                                <Border Margin="20 0 0 0" Width="100">
+                                    <TextBlock Text="{Binding Path=surnameP}" Style="{StaticResource txtInfo}"/>
+                                </Border>
+                                <Border Margin="20 0 0 0" Width="100">
+                                    <TextBlock Text="{Binding Path=nameP}" Style="{StaticResource txtInfo}"/>
+                                </Border>
+                                <Border Margin="20 0 0 0" Width="100">
+                                    <TextBlock Text="{Binding Path=patronymicP}" Style="{StaticResource txtInfo}"/>
+                                </Border>
+                            </StackPanel>
+
+                            <!--Диагноз Пациента-->
+                            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                                <TextBlock Text="{Binding Diagnosi.diagnosName}" Style="{StaticResource txtInfo}"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Пациент">
+                        <MenuItem Header="Добавить" Click="AddPatient_Click" x:Name="AddPatient"/>
+                        <Separator/>
+                        <MenuItem Header="Редактировать" Click="EditPatient_Click" x:Name="EditPatient"/>
+                        <MenuItem Header="Удалить" Click="DeletePatient_Click" x:Name="DeletePatient"/>
+                    </MenuItem>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+
+        <!--Вывод данных из бд-->
+        <ListView x:Name="exerciseListView" SelectionMode="Single" ItemsSource="{Binding SourceCollection}" Style="{StaticResource listView}" Visibility="Collapsed" VirtualizingPanel.ScrollUnit="Pixel">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border>
+                        <StackPanel Orientation="Horizontal" Height="115">
+
+                            <!--Картинка упражнения-->
+                            <Image x:Name="exerciseImage" Source="{Binding Path=exImage}" Height="110" Width="70" Margin="30 0 30 0"/>
+
+                            <!--Название упражнения-->
+                            <StackPanel Width="450" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20 0 50 0">
+                                <TextBlock x:Name="exerciseName" Text="{Binding Path=exName}" Style="{StaticResource txtInfo}"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Упражнение">
+                        <MenuItem Header="Добавить" Click="AddExercise_Click" x:Name="AddExercise"/>
+                        <MenuItem Header="Редактировать" Click="EditExercise_Click" x:Name="EditExercise"/>
+                        <MenuItem Header="Удалить" Click="DeleteExercise_Click" x:Name="DeleteExercise"/>
+                    </MenuItem>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+
+        <Frame x:Name="frame" Navigated="Frame_Navigated" Grid.RowSpan="3"/>
+    </Grid>
+</Page>

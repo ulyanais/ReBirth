@@ -1,0 +1,30 @@
+﻿<Application x:Class="ReBirth.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ReBirth"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBlock" x:Key="txtInfo">
+            <Setter Property="FontFamily" Value="Lucida Bright"/>
+            <Setter Property="Foreground" Value="#FF174347"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="FontSize" Value="17"/>
+        </Style>
+        <Style TargetType="ListView" x:Key="listView">
+            <Setter Property="Background" Value="#DDDFDF"/>
+            <Setter Property="Grid.Row" Value="1"/>
+        </Style>
+        <Style TargetType="Button" x:Key="button">
+            <Setter Property="FontFamily" Value="Lucida Bright"/>
+        </Style>
+        <Style TargetType="Canvas" x:Key="canvs">
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Setter Property="Height" Value="25"/>
+        </Style>
+        <Style TargetType="TextBlock" x:Key="helptxt">
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Margin" Value="0 20 0 0"/>
+        </Style>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,41 @@
+﻿<Window x:Class="ReBirth.Pages.AddNewExercise"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReBirth.Pages"
+        mc:Ignorable="d"
+        Height="450" Width="300" Background="#FF729FA2" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Background="#D3DEEB"/>
+
+        <StackPanel x:Name="StackPanelEx" Grid.Row="1" HorizontalAlignment="Center">
+            <StackPanel Grid.Row="1">
+                <Label Content="Название упражнения"/>
+                <TextBox x:Name="newNameE" MaxLength="150"/>
+
+                <Label Content="Подробное описание упражнения"/>
+                <TextBox x:Name="newDescriptionE" Height="100" TextWrapping="Wrap"/>
+
+                <!--Вывод и выбор изображения-->
+                <StackPanel Width="210" HorizontalAlignment="Left">
+                    <TextBlock Text="Изображение" Foreground="White" TextAlignment="Center"/>
+                    <Image x:Name="ExerciseImage" Width="180" Height="145"/>
+                    <Button Name="ChooseImage" Content="Выбрать..." Width="100" HorizontalAlignment="Center" Background="{x:Null}" Foreground="White"/>
+                </StackPanel>
+                
+                <!--Добавление--> 
+                <Button x:Name="AddExercise" Click="AddExercise_Click" Content="Добавить упражнение" Background="Honeydew" Margin="0 10 0 0" Visibility="Hidden"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
